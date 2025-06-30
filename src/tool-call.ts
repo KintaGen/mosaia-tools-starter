@@ -2,7 +2,7 @@ export default async function toolCall(paramOne: string, paramTwo: string, envVa
     let result = '';
 
     console.log(`Received event with the following parameters: ${paramOne}, ${paramTwo} and the following env var: ${envVar}.`)
-
+    console.log("test");
     result = paramOne + paramTwo;
 
     return result;
