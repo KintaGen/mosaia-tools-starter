@@ -4,8 +4,8 @@
     "schema": {
         "type": "function",
         "function": {
-            "name": "TOOL_DISPLAY_NAME",
-            "description": "LONG_TOOL_DESCRIPTION",
+            "name": "tool_test_name121212",
+            "description": "long_description12123817239172983172893712839123",
             "strict": true,
             "parameters": {
                 "type": "object",
